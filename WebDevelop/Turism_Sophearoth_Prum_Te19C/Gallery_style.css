@@ -1,0 +1,61 @@
+
+.Topblock{
+	background-color:black;
+	height:90px;
+	margin:0px;
+	width:100%;
+
+	}
+.BelowBlock{
+	background-color:black;
+	height:90px;
+	margin:0px;
+	width:100%;
+}
+.MiddleBlock{
+	background-color:white;
+	height:3px;
+	margin:0px;
+	width:100%;
+	float:left;
+}
+
+
+
+
+.im1{
+	height:100px;
+	width:25%;
+	background-color:red;
+	float:left;
+	margin:4%;
+	
+}
+
+
+.im2{
+	height:100px;
+
+	width:25%;
+	background-color:green;
+	
+	float:left;
+	
+	margin:4%;
+}
+
+.im3{
+	height:100px;
+	width:25%;
+	background-color:blue;
+	float:left;
+	
+	margin:4%;
+}
+
+body{
+	background-color:gray;
+	margin:0px;
+	padding:0px;
+}
+
