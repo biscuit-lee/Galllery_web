@@ -1,0 +1,174 @@
+.topblock h1{
+	margin:0;
+	padding:20px 20px 0;
+	color:white;
+	width:100%;
+}
+
+
+.meny{
+	height:182px;
+	width:100%;
+	padding:0;
+	margin:0;
+	background-color:red;
+	overflow:hidden;
+}
+.collection{
+
+	margin:1%;
+	margin-bottom:0.5%;
+	padding:2px;
+	color:white;
+}
+
+
+
+.topblock{
+	background-color:black;
+	height:50%;
+	margin:0;
+	width:100%;
+	
+	}
+.belowblock{
+	background-color:black;
+	height:50%;
+	margin:0 ;
+	width:100%;
+	overflow:hidden;
+}
+.middleblock{
+	background-color:white;
+	height:1%;
+	margin:0;
+	width:100%;
+	float:left;
+}
+
+.menylink{
+	float:right;
+	margin-right: 10px;
+	
+}
+.undermeny{
+	background-color:white;
+	width:35px;
+	height:8px;
+	float:right;
+	margin-top:81px;
+	margin-left:-25px;
+}
+
+.belowblock a{
+	color:white;
+	margin:0px 25px 0px;
+	float:left;
+	font-size:18.72px;
+	text-decoration: none;
+	height:100%;
+	padding-top:35px;
+	
+}
+
+
+.pg{
+	background-color:black;
+	overflow:hidden;
+	height:70px;
+	margin:10px;
+}
+
+.im1{
+	height:520px;
+	width:25%;
+	background-color:black;
+	margin:2%;
+	margin-top:0.5%;
+	float:left;
+	color:white;
+	text-align: center
+	
+}
+
+.starry{
+	margin-top:10%;
+
+}
+
+
+
+
+
+body{
+	background-color:gray;
+	margin:0;
+	padding:0;
+}
+
+
+
+
+/* formulärt */
+
+form{
+	background-color:gray;
+	text-align:left;
+	margin-top: 30px;
+}
+
+
+fieldset{
+	width:50%;
+	margin:50px auto;
+	border:1px solid black;
+	white-space: nowrap;
+
+}
+
+.lineclas{
+	display: inline-block;
+}
+
+.info{
+	float:right;
+	display: block;
+	margin-top:-40px;
+	margin-right:40px;
+}
+
+
+legend{
+	font-size:20px;
+}
+
+label{
+	font-size:16px;
+}
+
+input{
+	margin:20px;
+	border: 0px solid black;
+	font-family:News Time Roman;
+	padding:8px;
+	background-color:gray;
+	font-size: 16px;
+	border-bottom:1px solid white;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
